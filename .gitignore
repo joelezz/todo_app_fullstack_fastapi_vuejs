@@ -1,0 +1,16 @@
+# Python
+env/
+__pycache__/
+*.pyc
+
+# Node / Vue
+node_modules/
+dist/
+
+# Database
+*.db
+
+# Others
+.DS_Store
+.vscode/
+.idea/
